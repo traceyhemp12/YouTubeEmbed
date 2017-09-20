@@ -13,3 +13,4 @@ This app uses the following NuGet packages to work properly
    [FreshMvvm]: <https://github.com/rid00z/FreshMvvm>
    [Newtonsoft.Json]: <http://www.newtonsoft.com/json>
    [Humanizr]: <https://github.com/Humanizr/Humanizer>
+   https://www.thewissen.io/embedding-youtube-feed-xamarin-forms/
